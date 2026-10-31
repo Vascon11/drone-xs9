@@ -1,5 +1,7 @@
 # drone-xs9
 
+![Drone dobrado, visto de cima](docs/img/drone.jpg)
+
 Controle pelo computador de um drone dobrável genérico (logo parecido com "XS9 MAX", app **RC FPV**),
 com duas câmeras e sem GPS aparente. Projeto irmão do [`drone-predator`](https://github.com/Vascon11/drone-predator).
 
